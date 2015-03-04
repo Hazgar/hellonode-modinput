@@ -1,0 +1,10 @@
+{
+    "name": "hellonode",
+    "version": "0.0.42",
+    "description": "Splunk modular input example for generating events out of the blue",
+    "main": "hellonode.js",
+    "dependencies": {
+        "splunk-sdk": ">=1.4.0",
+    },
+    "author": "Stephane Lapie"
+}
